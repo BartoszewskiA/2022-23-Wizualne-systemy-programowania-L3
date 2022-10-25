@@ -1,0 +1,15 @@
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab01p01\lab01p01\bin\Debug\net6.0\lab01p01.exe
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab01p01\lab01p01\bin\Debug\net6.0\lab01p01.deps.json
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab01p01\lab01p01\bin\Debug\net6.0\lab01p01.runtimeconfig.json
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab01p01\lab01p01\bin\Debug\net6.0\lab01p01.dll
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab01p01\lab01p01\bin\Debug\net6.0\lab01p01.pdb
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab01p01\lab01p01\obj\Debug\net6.0\lab01p01.csproj.AssemblyReference.cache
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab01p01\lab01p01\obj\Debug\net6.0\lab01p01.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab01p01\lab01p01\obj\Debug\net6.0\lab01p01.AssemblyInfoInputs.cache
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab01p01\lab01p01\obj\Debug\net6.0\lab01p01.AssemblyInfo.cs
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab01p01\lab01p01\obj\Debug\net6.0\lab01p01.csproj.CoreCompileInputs.cache
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab01p01\lab01p01\obj\Debug\net6.0\lab01p01.dll
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab01p01\lab01p01\obj\Debug\net6.0\refint\lab01p01.dll
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab01p01\lab01p01\obj\Debug\net6.0\lab01p01.pdb
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab01p01\lab01p01\obj\Debug\net6.0\lab01p01.genruntimeconfig.cache
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab01p01\lab01p01\obj\Debug\net6.0\ref\lab01p01.dll

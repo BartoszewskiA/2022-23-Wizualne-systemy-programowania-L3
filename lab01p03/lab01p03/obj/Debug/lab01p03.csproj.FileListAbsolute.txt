@@ -1,0 +1,8 @@
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab01p03\lab01p03\bin\Debug\lab01p03.exe.config
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab01p03\lab01p03\bin\Debug\lab01p03.exe
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab01p03\lab01p03\bin\Debug\lab01p03.pdb
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab01p03\lab01p03\obj\Debug\lab01p03.csproj.AssemblyReference.cache
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab01p03\lab01p03\obj\Debug\lab01p03.csproj.SuggestedBindingRedirects.cache
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab01p03\lab01p03\obj\Debug\lab01p03.csproj.CoreCompileInputs.cache
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab01p03\lab01p03\obj\Debug\lab01p03.exe
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab01p03\lab01p03\obj\Debug\lab01p03.pdb
