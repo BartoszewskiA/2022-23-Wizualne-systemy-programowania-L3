@@ -1,0 +1,17 @@
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab03p01-przelicznik_walut\lab03p01-przelicznik_walut\bin\Debug\net6.0-windows\lab03p01-przelicznik_walut.exe
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab03p01-przelicznik_walut\lab03p01-przelicznik_walut\bin\Debug\net6.0-windows\lab03p01-przelicznik_walut.deps.json
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab03p01-przelicznik_walut\lab03p01-przelicznik_walut\bin\Debug\net6.0-windows\lab03p01-przelicznik_walut.runtimeconfig.json
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab03p01-przelicznik_walut\lab03p01-przelicznik_walut\bin\Debug\net6.0-windows\lab03p01-przelicznik_walut.dll
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab03p01-przelicznik_walut\lab03p01-przelicznik_walut\bin\Debug\net6.0-windows\lab03p01-przelicznik_walut.pdb
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab03p01-przelicznik_walut\lab03p01-przelicznik_walut\obj\Debug\net6.0-windows\lab03p01-przelicznik_walut.csproj.AssemblyReference.cache
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab03p01-przelicznik_walut\lab03p01-przelicznik_walut\obj\Debug\net6.0-windows\lab03p01_przelicznik_walut.Form1.resources
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab03p01-przelicznik_walut\lab03p01-przelicznik_walut\obj\Debug\net6.0-windows\lab03p01-przelicznik_walut.csproj.GenerateResource.cache
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab03p01-przelicznik_walut\lab03p01-przelicznik_walut\obj\Debug\net6.0-windows\lab03p01-przelicznik_walut.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab03p01-przelicznik_walut\lab03p01-przelicznik_walut\obj\Debug\net6.0-windows\lab03p01-przelicznik_walut.AssemblyInfoInputs.cache
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab03p01-przelicznik_walut\lab03p01-przelicznik_walut\obj\Debug\net6.0-windows\lab03p01-przelicznik_walut.AssemblyInfo.cs
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab03p01-przelicznik_walut\lab03p01-przelicznik_walut\obj\Debug\net6.0-windows\lab03p01-przelicznik_walut.csproj.CoreCompileInputs.cache
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab03p01-przelicznik_walut\lab03p01-przelicznik_walut\obj\Debug\net6.0-windows\lab03p01-przelicznik_walut.dll
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab03p01-przelicznik_walut\lab03p01-przelicznik_walut\obj\Debug\net6.0-windows\refint\lab03p01-przelicznik_walut.dll
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab03p01-przelicznik_walut\lab03p01-przelicznik_walut\obj\Debug\net6.0-windows\lab03p01-przelicznik_walut.pdb
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab03p01-przelicznik_walut\lab03p01-przelicznik_walut\obj\Debug\net6.0-windows\lab03p01-przelicznik_walut.genruntimeconfig.cache
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab03p01-przelicznik_walut\lab03p01-przelicznik_walut\obj\Debug\net6.0-windows\ref\lab03p01-przelicznik_walut.dll
