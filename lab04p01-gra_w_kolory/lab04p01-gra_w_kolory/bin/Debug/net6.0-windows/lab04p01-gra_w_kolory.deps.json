@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "lab04p01-gra_w_kolory/1.0.0": {
+        "runtime": {
+          "lab04p01-gra_w_kolory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lab04p01-gra_w_kolory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

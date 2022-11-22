@@ -1,0 +1,17 @@
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab04p01-gra_w_kolory\lab04p01-gra_w_kolory\bin\Debug\net6.0-windows\lab04p01-gra_w_kolory.exe
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab04p01-gra_w_kolory\lab04p01-gra_w_kolory\bin\Debug\net6.0-windows\lab04p01-gra_w_kolory.deps.json
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab04p01-gra_w_kolory\lab04p01-gra_w_kolory\bin\Debug\net6.0-windows\lab04p01-gra_w_kolory.runtimeconfig.json
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab04p01-gra_w_kolory\lab04p01-gra_w_kolory\bin\Debug\net6.0-windows\lab04p01-gra_w_kolory.dll
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab04p01-gra_w_kolory\lab04p01-gra_w_kolory\bin\Debug\net6.0-windows\lab04p01-gra_w_kolory.pdb
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab04p01-gra_w_kolory\lab04p01-gra_w_kolory\obj\Debug\net6.0-windows\lab04p01-gra_w_kolory.csproj.AssemblyReference.cache
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab04p01-gra_w_kolory\lab04p01-gra_w_kolory\obj\Debug\net6.0-windows\lab04p01_gra_w_kolory.Form1.resources
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab04p01-gra_w_kolory\lab04p01-gra_w_kolory\obj\Debug\net6.0-windows\lab04p01-gra_w_kolory.csproj.GenerateResource.cache
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab04p01-gra_w_kolory\lab04p01-gra_w_kolory\obj\Debug\net6.0-windows\lab04p01-gra_w_kolory.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab04p01-gra_w_kolory\lab04p01-gra_w_kolory\obj\Debug\net6.0-windows\lab04p01-gra_w_kolory.AssemblyInfoInputs.cache
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab04p01-gra_w_kolory\lab04p01-gra_w_kolory\obj\Debug\net6.0-windows\lab04p01-gra_w_kolory.AssemblyInfo.cs
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab04p01-gra_w_kolory\lab04p01-gra_w_kolory\obj\Debug\net6.0-windows\lab04p01-gra_w_kolory.csproj.CoreCompileInputs.cache
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab04p01-gra_w_kolory\lab04p01-gra_w_kolory\obj\Debug\net6.0-windows\lab04p01-gra_w_kolory.dll
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab04p01-gra_w_kolory\lab04p01-gra_w_kolory\obj\Debug\net6.0-windows\refint\lab04p01-gra_w_kolory.dll
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab04p01-gra_w_kolory\lab04p01-gra_w_kolory\obj\Debug\net6.0-windows\lab04p01-gra_w_kolory.pdb
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab04p01-gra_w_kolory\lab04p01-gra_w_kolory\obj\Debug\net6.0-windows\lab04p01-gra_w_kolory.genruntimeconfig.cache
+D:\PROGRAMOWANIE\2022-23\2022-23 Wizualne systemy programowania L3\lab04p01-gra_w_kolory\lab04p01-gra_w_kolory\obj\Debug\net6.0-windows\ref\lab04p01-gra_w_kolory.dll
